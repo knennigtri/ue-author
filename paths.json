@@ -1,7 +1,7 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/WKND/:/",
+    "/content/WKND/configuration:/.helix/config.json",
+    "/content/WKND/metadata:/metadata.json"
   ]
 }
