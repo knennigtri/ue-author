@@ -16,6 +16,21 @@
     ]
   },
   {
+      "id": "blockquote",
+      "fields": [
+        {
+            "component": "text",
+            "name": "quote",
+            "label": "Quote"
+        },
+        {
+            "component": "text",
+            "name": "cite",
+            "label": "Cite"
+        }
+      ]
+  },
+  {
     "id": "title",
     "fields": [
       {
