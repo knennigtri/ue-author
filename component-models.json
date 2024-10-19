@@ -31,6 +31,12 @@
       ]
   },
   {
+    "id": "breadcrumb",
+    "fields": [
+
+    ]
+  },
+  {
     "id": "title",
     "fields": [
       {
