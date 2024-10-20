@@ -40,10 +40,10 @@
     "id": "featured article",
     "fields": [
       {
-        "component": "reference",
+        "component": "aem-content",
         "name": "featured-article",
         "label": "Featured Article",
-        "multi": false
+        "valueType": "string"
       } 
     ]
   },
