@@ -37,6 +37,17 @@
     ]
   },
   {
+    "id": "featured article",
+    "fields": [
+      {
+        "component": "reference",
+        "name": "featured-article",
+        "label": "Featured Article",
+        "multi": false
+      } 
+    ]
+  },
+  {
     "id": "title",
     "fields": [
       {
