@@ -1,6 +1,6 @@
 export default function decorate(block) {
   const quoteDiv = block.querySelector('div:last-of-type');
-  const quote = document.createElement('quoteText');
+  const quote = document.createElement('text');
   quote.innerHTML = `<strong>${quoteDiv.innerHTML}</strong>`;
   quoteDiv.replaceWith(quote);
 
