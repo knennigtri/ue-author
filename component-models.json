@@ -181,7 +181,7 @@
       {
         "component": "richtext",
         "name": "quote",
-        "value": "",
+        "value": "Hi!",
         "label": "Quote",
         "valueType": "string"
       },
