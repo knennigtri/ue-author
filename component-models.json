@@ -180,7 +180,7 @@
     "fields": [
       {
         "component": "richtext",
-        "name": "quoteText",
+        "name": "text",
         "value": "",
         "label": "Quote",
         "valueType": "string"
