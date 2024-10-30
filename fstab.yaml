@@ -1,6 +1,6 @@
 mountpoints:
   /:
     # url: "https://author-p142928-e1469604.adobeaemcloud.com/bin/franklin.delivery/aem-training/ue-author/main"
-    url: "https://author-p140373-e1482158.adobeaemcloud.com//bin/franklin.delivery/knennigtri/ue-author/wknd-add"
+    url: "https://author-p140373-e1482158.adobeaemcloud.com/bin/franklin.delivery/knennigtri/ue-author/wknd-add"
     type: "markup"
     suffix: ".html"

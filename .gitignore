@@ -8,4 +8,4 @@ helix-importer-ui
 *.bak
 .idea
 
-blocks_orig/*
+blocks_*/*
