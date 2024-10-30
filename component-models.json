@@ -16,38 +16,6 @@
     ]
   },
   {
-      "id": "blockquote",
-      "fields": [
-        {
-            "component": "text",
-            "name": "quote",
-            "label": "Quote"
-        },
-        {
-            "component": "text",
-            "name": "cite",
-            "label": "Cite"
-        }
-      ]
-  },
-  {
-    "id": "breadcrumb",
-    "fields": [
-
-    ]
-  },
-  {
-    "id": "featured article",
-    "fields": [
-      {
-        "component": "aem-content",
-        "name": "featured-article",
-        "label": "Featured Article",
-        "valueType": "string"
-      } 
-    ]
-  },
-  {
     "id": "title",
     "fields": [
       {
@@ -144,6 +112,25 @@
     ]
   },
   {
+    "id": "quote",
+    "fields": [
+      {
+        "component": "richtext",
+        "name": "quote",
+        "value": "",
+        "label": "Quote",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "author",
+        "label": "Author",
+        "value": ""
+      }
+    ]
+  },
+  {
     "id": "card",
     "fields": [
       {
@@ -178,16 +165,6 @@
         "name": "rows",
         "value": "",
         "label": "Rows"
-      }
-    ]
-  },
-  {
-    "id": "fragment",
-    "fields": [
-      {
-        "component": "aem-content",
-        "name": "reference",
-        "label": "Reference"
       }
     ]
   },
