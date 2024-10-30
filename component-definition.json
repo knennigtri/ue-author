@@ -84,7 +84,7 @@
       "components": [
         {
           "title": "Quote",
-          "id": "quote",
+          "id": "blockquote",
           "plugins": {
             "xwalk": {
               "page": {

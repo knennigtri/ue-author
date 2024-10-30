@@ -2,7 +2,7 @@
   "definitions": [
     {
       "title": "Quote",
-      "id": "quote",
+      "id": "blockquote",
       "plugins": {
         "xwalk": {
           "page": {
@@ -20,7 +20,7 @@
   ],
   "models": [
     {
-      "id": "quote",
+      "id": "blockquote",
       "fields": [
          {
            "component": "richtext",

@@ -112,7 +112,7 @@
     ]
   },
   {
-    "id": "quote",
+    "id": "blockquote",
     "fields": [
       {
         "component": "richtext",
