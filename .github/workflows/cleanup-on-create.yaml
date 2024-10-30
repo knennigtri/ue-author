@@ -6,6 +6,7 @@ on:
   create:
     branches:
       - main
+      - wknd-add
   workflow_dispatch:
 jobs:
   cleanup:
