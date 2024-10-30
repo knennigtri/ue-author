@@ -176,7 +176,7 @@
     ]
   },
   {
-    "id": "blockquote",
+    "id": "quote",
     "fields": [
       {
         "component": "richtext",
