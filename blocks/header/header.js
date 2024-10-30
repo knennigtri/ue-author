@@ -18,7 +18,9 @@ function collapseAllNavSections(sections) {
 
 export default async function decorate(block) {
   // fetch nav content
-  const navPath = window.wknd.demoConfig.demoBase || '';
+  let navPath = window.wknd.demoConfig.demoBase || '';
+  //TODO Fix
+  navPath = "https://author-p140373-e1482158.adobeaemcloud.com/content/wknd-ue-1";
 
   const resp = await fetch(`${navPath}/nav.plain.html`, window.location.pathname.endsWith('/nav') ? { cache: 'reload' } : {});
   if (resp.ok) {
