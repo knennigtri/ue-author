@@ -1,7 +1,7 @@
 {
   "mappings": [
-    "/content/WKND/:/",
-    "/content/WKND/configuration:/.helix/config.json",
-    "/content/WKND/metadata:/metadata.json"
+    "/content/wknd/:/",
+    "/content/wknd/configuration:/.helix/config.json",
+    "/content/wknd/metadata:/metadata.json"
   ]
 }
