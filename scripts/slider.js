@@ -22,7 +22,7 @@ function arrow(props) {
   anchor.className = `button ${props}`;
   anchor.title = `${props}`;
   anchor.type = 'button';
-  anchor.append(arrowIcon(props));
+//   anchor.append(arrowIcon(props));
   p.append(anchor);
   return p;
 }
