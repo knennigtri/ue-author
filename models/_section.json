@@ -44,7 +44,15 @@
         "hero",
         "cards",
         "columns",
-        "fragment"
+        "fragment",
+        "quote",
+        "activity-details",
+        "carousel",
+        "featured-article",
+        "recent-articles",
+        "recent-trips",
+        "tabs",
+        "teaser"
       ]
     }
   ]

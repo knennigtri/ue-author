@@ -235,8 +235,8 @@ main pre {
 }
 
 main blockquote {
-  color: var(--blockquote-color);
-  background-color: var(--blockquote-background-color);
+  color: var(--quote-color);
+  background-color: var(--quote-background-color);
   font-family: var(--heading-font-family);
   margin: 3rem;
   text-indent: -1rem;
