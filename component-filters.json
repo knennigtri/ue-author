@@ -47,10 +47,15 @@
   {
     "id": "column",
     "components": [
-      "text",
       "image",
       "button",
-      "title"
+      "title",
+      "quote",
+      "activity-details",
+      "featured-article",
+      "recent-articles",
+      "recent-trips",
+      "teaser"
     ]
   }
 ]
