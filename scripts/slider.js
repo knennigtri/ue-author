@@ -5,14 +5,14 @@ import {
 loadCSS(`${window.hlx.codeBasePath}/styles/slider.css`);
 
 // Handling Next / Previous Arrow Image
-function arrowIcon(props) {
-  const icon = document.createElement('img');
-  icon.src = `${window.hlx.codeBasePath}/icons/${props}.svg`;
-  icon.alt = `${props}`;
-  icon.loading = 'lazy';
-  icon.dataset.iconName = `${props}`;
-  return icon;
-}
+// function arrowIcon(props) {
+//   const icon = document.createElement('img');
+//   icon.src = `${window.hlx.codeBasePath}/icons/${props}.svg`;
+//   icon.alt = `${props}`;
+//   icon.loading = 'lazy';
+//   icon.dataset.iconName = `${props}`;
+//   return icon;
+// }
 
 // Handling Anchor Tag
 function arrow(props) {
@@ -22,7 +22,7 @@ function arrow(props) {
   anchor.className = `button ${props}`;
   anchor.title = `${props}`;
   anchor.type = 'button';
-//   anchor.append(arrowIcon(props));
+  //   anchor.append(arrowIcon(props));
   p.append(anchor);
   return p;
 }
